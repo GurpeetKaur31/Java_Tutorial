@@ -1,2 +1,2 @@
 # Java_Tutorial
-Short java course that will help building concepts in java
+Short java course that will help building concepts of java
